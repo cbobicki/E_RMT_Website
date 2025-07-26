@@ -1,0 +1,20 @@
+- name: "75 Minute Massage Therapy"
+  duration: "75 min"
+  price: "$145.00"
+  description: "Appointment includes assessment, treatment using smooth basalt stones combined with hydrotherapy, and home care to address the client's goals. Please include if you are seeking a more therapeutic or relaxation approach to your treatment."
+
+- name: "75 Minute Hot Stone Massage"
+  duration: "75 min"
+  price: "$160.00"
+  description: "Experience a full relaxation massage enhanced by the comforting warmth and gentle weight of smooth, heated basalt stones."
+
+- name: "60 Minute Massage Therapy"
+  duration: "60 min"
+  price: "$125.00"
+  description: "Appointment includes assessment, treatment using smooth basalt stones combined with hydrotherapy, and home care to address the client's goals. Please include if you are seeking a more therapeutic or relaxation approach to your treatment."
+
+- name: "75 Minute RMT Functional Facial Massage"
+  duration: "75 min"
+  price: "$145.00"
+  description: "This service incorporates a blend of techniques targeting the neck, shoulders, and scalp, designed to promote relaxation and relieve tension in the facial muscles. A range of hydrotherapy modalities is included to enhance the experience."
+  note: "Please wait 3 weeks after any filler or botox injections before booking."
