@@ -9,8 +9,8 @@ address: 6376 19 Street, Grand Forks
 description: >-
   Eilish Bobicki is a Registered Massage Therapist (RMT) recognized by the College of Registered Massage Therapy of British Columbia, serving the Boundary area with compassionate and therapeutic treatments. Specializing in therapeutic massage therapy, hot stone massage, and innovative RMT functional facial massage, Eilish provides personalized care to support your journey toward healing and enhanced well-being. With a focus on health and wellness, she offers comprehensive treatments including assessment, hydrotherapy, and customized home care plans. Whether you're seeking relief from chronic pain, stress reduction, or overall wellness maintenance, Eilish's professional expertise and caring approach help clients achieve optimal physical and mental health outcomes in a welcoming, therapeutic environment.
 
-baseurl: ""  # Leave empty unless using GitHub project pages
-url: "https://yourdomain.com"  # Replace with your actual domain
+baseurl: "/E_RMT_Website"
+url: "https://cbobicki.github.io"
 
 
 # Services
