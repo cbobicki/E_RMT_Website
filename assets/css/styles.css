@@ -1,6 +1,5 @@
 * {
     font-family: 'Courier 10 Pitch Std Bold', monospace !important;
-    color: #3f5e48 !important;
 }
 
 .video-background {
@@ -137,4 +136,12 @@ section {
 .footer-contact-img {
     max-width: 60%;
     height: 60%;
+}
+
+#home {
+    font-family: 'Courier 10 Pitch Std Bold', monospace !important;
+}
+
+#home h1 {
+    color: #3f5e48 !important;
 }
