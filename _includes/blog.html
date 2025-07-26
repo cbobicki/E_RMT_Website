@@ -6,14 +6,14 @@
       <div class="col-md-5">
         <div class="card h-100 shadow-sm text-white bg-success ">
           {% if post.image %}
-          <img src="{{ post.image | relative_url }}" class="card-img-top">
+          <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
           {% endif %}
           <div class="card-body">
             <h3 class="card-title h5">{{ post.title }}</h3>
             <p class="text-light small">
               {{ post.date | date: "%B %-d, %Y" }}
             </p>
-            <p class="card-text">{{ post.content }}</p>
+            <div class="card-text">{{ post.excerpt }}</div>
           </div>
         </div>
       </div>
