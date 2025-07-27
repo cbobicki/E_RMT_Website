@@ -1,12 +1,15 @@
-title: Eilish Bobicki RMT
+title: Eilish Bobicki RMT - Registered Massage Therapist in Boundary Area
 email: eilishrmt@gmail.com
 phone: "604-356-9517"
 
 description: >-
-  Eilish Bobicki is a Registered Massage Therapist (RMT) recognized by the College of Registered Massage Therapy of British Columbia, serving the Boundary area with compassionate and therapeutic treatments. Specializing in therapeutic massage therapy, hot stone massage, and innovative RMT functional facial massage, Eilish provides personalized care to support your journey toward healing and enhanced well-being. With a focus on health and wellness, she offers comprehensive treatments including assessment, hydrotherapy, and customized home care plans. Whether you're seeking relief from chronic pain, stress reduction, or overall wellness maintenance, Eilish's professional expertise and caring approach help clients achieve optimal physical and mental health outcomes in a welcoming, therapeutic environment.
+  Eilish Bobicki RMT - Registered Massage Therapist serving the Boundary area in British Columbia. Professional therapeutic massage therapy, hot stone massage, and RMT functional facial massage. Book your appointment today for health and wellness treatments.
 
 baseurl: ""
 url: "https://eilishbobicki-rmt.ca"
+
+author: Caleb Bobicki
+logo: /assets/images/Logo.png
 
 services:
   - name: "75 Minute Massage Therapy"
