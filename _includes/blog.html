@@ -1,17 +1,17 @@
-<section id="blog" class="py-5 bg-light">
+<section id="blog" class="py-5 bg-light"> <!-- Blog Section: Latest news and updates display -->
   <div class="container">
     <h2 class="text-center mb-5 fs-1">Latest News</h2>
     <div class="row g-4">
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:3 %}  <!-- Jekyll loop: Display up to 3 most recent posts -->
       <div class="col-md-5">
         <div class="card h-100 shadow-sm text-white bg-success ">
           {% if post.image %}
           <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
           {% endif %}
-          <div class="card-body">
+          <div class="card-body"> <!-- Card content area -->
             <h3 class="card-title h5">{{ post.title }}</h3>
             <p class="text-light small">
-              {{ post.date | date: "%B %-d, %Y" }}
+              {{ post.date | date: "%B %-d, %Y" }} <!-- date formatting -->
             </p>
             <div class="card-text">{{ post.excerpt }}</div>
           </div>
